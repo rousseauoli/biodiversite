@@ -1,0 +1,14 @@
+name: biodiversite_env
+channels:
+    - defaults
+    - conda-forge
+dependencies:
+    - numpy
+    - pandas
+    - shapely
+    - ipywidgets
+    - requests
+    - IPython
+    - pip:
+        - geopandas
+        - folium
