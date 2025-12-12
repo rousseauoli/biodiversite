@@ -10,6 +10,7 @@ dependencies:
     - requests
     - IPython
     - voila
+    - warnings
     - pip:
         - geopandas
         - folium
