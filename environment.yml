@@ -9,6 +9,7 @@ dependencies:
     - ipywidgets
     - requests
     - IPython
+    - voila
     - pip:
         - geopandas
         - folium
